@@ -5,4 +5,6 @@ Repository for home assignments of MLOps Zoomcamp course from DataTalks.Club.
 Original course repo is situated here https://github.com/DataTalksClub/mlops-zoomcamp
 
 Notion notes:
-[3. Orchestration and ML Pipelines](https://www.notion.so/3-Orchestration-and-ML-Pipelines-5376b1f639864d88877c2f00cc1d757d)
+- Module 1: Introduction
+- Module 2: Experiment tracking and model management
+- [Module 3: Orchestration and ML Pipelines](https://www.notion.so/3-Orchestration-and-ML-Pipelines-5376b1f639864d88877c2f00cc1d757d)
