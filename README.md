@@ -7,4 +7,4 @@ Original course repo is situated here https://github.com/DataTalksClub/mlops-zoo
 Notion notes:
 - Module 1: Introduction
 - Module 2: Experiment tracking and model management
-- [Module 3: Orchestration and ML Pipelines](https://www.notion.so/3-Orchestration-and-ML-Pipelines-5376b1f639864d88877c2f00cc1d757d)
+- [Module 3: Orchestration and ML Pipelines](https://rough-language-7ea.notion.site/3-Orchestration-and-ML-Pipelines-5376b1f639864d88877c2f00cc1d757d)
